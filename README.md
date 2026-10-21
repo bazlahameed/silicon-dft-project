@@ -2,7 +2,7 @@ First-Principles Study of Bulk Silicon Using DFT
 
 A computational materials science project investigating the total-energy convergence of crystalline silicon using Density Functional Theory (DFT) and Quantum ESPRESSO.
 
-Methods
+Methods:
 
 Self-consistent field (SCF) calculations using the PBE exchange-correlation functional
 
@@ -12,7 +12,7 @@ Brillouin-zone k-point convergence study (4×4×4 to 12×12×12)
 
 Python-based visualization of convergence results
 
-Key Results
+Key Results:
 
 Identified 60 Ry as a reasonable provisional wavefunction cutoff.
 
@@ -20,7 +20,7 @@ Evaluated total-energy convergence across k-point meshes, with 12×12×12 select
 
 Documented calculation inputs, output logs, numerical data, and convergence plots for reproducibility.
 
-Tools
+Tools:
 
 Quantum ESPRESSO · DFT · Python · Matplotlib · Linux/WSL · Git/GitHub
 

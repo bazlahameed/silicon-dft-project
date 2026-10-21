@@ -1,0 +1,15 @@
+# Quantum ESPRESSO generated data
+tmp/
+convergence/tmp/
+
+# Editor temporary files
+*.swp
+*.swo
+*~
+
+# Python cache
+__pycache__/
+*.pyc
+kpoints/tmp/
+*.xml
+input_tmp.in

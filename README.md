@@ -24,7 +24,7 @@ Tools:
 
 Quantum ESPRESSO · DFT · Python · Matplotlib · Linux/WSL · Git/GitHub
 
-Repository Contents
+Repository Contents:
 
 convergence/ — cutoff study data and calculation files
 

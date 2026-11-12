@@ -89,7 +89,7 @@ The final dataset and plot are available in:
 
 ## Repository Structure
 
-'''text
+```text
 .
 ├── convergence/
 │   ├── convergence_results.csv
@@ -108,7 +108,7 @@ The final dataset and plot are available in:
 │   ├── fit_final_lattice.py
 │   └── SCF input and output files
 ├── si.scf.in
-└── si.scf.out'''
+└── si.scf.out```
 
 
 ## Tools and Skills

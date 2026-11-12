@@ -108,7 +108,8 @@ The final dataset and plot are available in:
 │   ├── fit_final_lattice.py
 │   └── SCF input and output files
 ├── si.scf.in
-└── si.scf.out```
+└── si.scf.out
+               ```
 
 
 ## Tools and Skills

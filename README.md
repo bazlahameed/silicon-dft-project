@@ -25,7 +25,7 @@ This is an independent computational learning and portfolio project.
 - **Pseudopotential:** Si PBE ultrasoft pseudopotential
 - **Crystal structure:** Diamond-cubic silicon
 - **Calculation type:** Self-consistent field (SCF)
-- **Convergence threshold:** `1.0 × 10⁻⁸`
+- **Convergence threshold:** 1.0 × 10⁻⁸
 
 The calculations use a two-atom primitive cell of silicon.
 
@@ -33,13 +33,13 @@ The calculations use a two-atom primitive cell of silicon.
 
 ### 1. Plane-Wave Cutoff Convergence
 
-The wavefunction kinetic-energy cutoff (`ecutwfc`) was varied from 30 to 70 Ry while keeping the charge-density cutoff and k-point mesh fixed.
+The wavefunction kinetic-energy cutoff (ecutwfc) was varied from 30 to 70 Ry while keeping the charge-density cutoff and k-point mesh fixed.
 
 The study examines the change in total energy as the plane-wave basis set is increased.
 
 Results and plots are available in:
-- `convergence/convergence_results.csv`
-- `figures/energy_vs_cutoff.png`
+- convergence/convergence_results.csv
+- figures/energy_vs_cutoff.png
 
 ### 2. K-Point Convergence
 

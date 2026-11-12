@@ -20,7 +20,7 @@ This is an independent computational learning and portfolio project.
 ## Computational Methodology
 
 - **Method:** Density Functional Theory (DFT)
-- **Software:** Quantum ESPRESSO (`pw.x`)
+- **Software:** Quantum ESPRESSO (pw.x)
 - **Exchange-correlation functional:** Perdew-Burke-Ernzerhof (PBE) within the GGA
 - **Pseudopotential:** Si PBE ultrasoft pseudopotential
 - **Crystal structure:** Diamond-cubic silicon
@@ -46,15 +46,15 @@ Results and plots are available in:
 Brillouin-zone sampling was investigated using 4×4×4, 6×6×6, 8×8×8, 10×10×10, and 12×12×12 k-point meshes.
 
 Results and plots are available in:
-- `kpoints/kpoint_convergence.csv`
-- `figures/energy_vs_kpoints.png`
+- kpoints/kpoint_convergence.csv
+- figures/energy_vs_kpoints.png
 
 ### 3. Higher-Cutoff Validation
 
 Additional calculations were performed using higher wavefunction and charge-density cutoffs to examine the stability of the total-energy results.
 
 These tests are documented in:
-- `structure_optimization/kpoint_validation/`
+- structure_optimization/kpoint_validation/
 
 ## Lattice-Parameter Optimisation
 
@@ -84,8 +84,8 @@ The total energies from five lattice parameters were fitted with a quadratic pol
 The fitted lattice parameter is an estimate obtained from the sampled total-energy data. It is not a full Birch-Murnaghan equation-of-state determination.
 
 The final dataset and plot are available in:
-- `structure_optimization/final_lattice_energy.csv`
-- `structure_optimization/final_energy_vs_lattice.png`
+- structure_optimization/final_lattice_energy.csv
+- structure_optimization/final_energy_vs_lattice.png
 
 ## Repository Structure
 

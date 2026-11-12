@@ -89,7 +89,7 @@ The final dataset and plot are available in:
 
 ## Repository Structure
 
-```text
+text
 .
 ├── convergence/
 │   ├── convergence_results.csv
@@ -109,7 +109,7 @@ The final dataset and plot are available in:
 │   └── SCF input and output files
 ├── si.scf.in
 └── si.scf.out
-```
+
 
 ## Tools and Skills
 
